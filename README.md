@@ -1,4 +1,3 @@
-Here is a professional `README.md` for your project based on the provided code:
 
 ```markdown
 # E-Commerce Web Application with PayPal Integration
